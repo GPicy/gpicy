@@ -4,7 +4,7 @@
 
 Dive into the vibrant world of GPicy, your user-friendly AI image editing tool. Crafting visually stunning imagery is at your fingertips with our intelligent solutions. Step into the future of image processing made simple and accessible for all.
 
-Experience GPicy now: [Visit Website gpicy.com](http://gpicy.com?utm_source=github)
+Experience GPicy now: [https://gpicy.com](https://gpicy.com?utm_source=github)
 
 ![Website](https://img.shields.io/website?up_message=Available&url=http%3A%2F%2Fgpicy.com%3Futm_source%3Dgithub&color=pink)
 ![License](https://img.shields.io/github/license/gpicy/gpicy?color=yellow)
