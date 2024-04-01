@@ -44,7 +44,7 @@ Remove anything that shouldn't be in your photo, quickly and effortlessly.
 > _Bring historic shades to life_
 Transform black and white photos into a kaleidoscope of color with just a click.
 
-### 🖼️ Portrait Restoration 
+### 👥 Portrait Restoration 
 [![Restoration Badge](https://img.shields.io/badge/Portrait_Restoration-Crisp_Definition-blue)](https://gpicy.com/en-US/portrait-restoration?utm_source=github)
 > _Restore portraits to their former glory_
 Revive the charm and detail of old portraits with our advanced AI restoration techniques.
